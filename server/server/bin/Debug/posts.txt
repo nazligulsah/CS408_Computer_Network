@@ -1,0 +1,20 @@
+Username: aliatay
+Post id: 0
+Post: merhaba
+Time:Pazartesi, 23 Mayıs 2022 11:01:59
+
+Username: fatihterim
+Post id: 1
+Post: merhaba ali
+Time:Pazartesi, 23 Mayıs 2022 11:02:07
+
+Username: aliatay
+Post id: 2
+Post: nasılsın
+Time:Pazartesi, 23 Mayıs 2022 11:02:15
+
+Username: fatihterim
+Post id: 3
+Post: iyiyim sen
+Time:Pazartesi, 23 Mayıs 2022 11:02:21
+
